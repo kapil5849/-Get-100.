@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script board counseling. maths coaching. jee counseling. college counseling.
     var typed = new Typed(".typing", {
-        strings: ["maths coaching.", "board counseling.", "jee counseling.", "college counseling.","DSA master class.","front-end class."],
+        strings: ["Front-end class.","DSA master class.","Matlab class.","College counseling.","Maths coaching.", "Board counseling.", "JEE counseling."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["a Teacher","an Engineering Student", "a Software Developer", "a Trader","a Investor"],
+        strings: ["a Software Developer","a Teacher","an Engineering Student","a Trader","a Investor"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
